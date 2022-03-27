@@ -1,0 +1,108 @@
+@charset "UTF-8";
+main .img-circle {
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%; }
+main .border-circle {
+  height: 25rem;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  width: 25rem; }
+main .group1 .container {
+  margin-top: 5vh;
+  padding-bottom: 10vh; }
+  main .group1 .container .title-group1 p {
+    font-size: calc(2.7rem + 3vw); }
+  main .group1 .container .content-group1 p {
+    font-size: calc(2rem + 2vw); }
+main .group2 {
+  background: url(../image/home-image/group2-bg.png) no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 15rem 0; }
+  main .group2 p {
+    font-size: calc(3.5rem + 3.5vw);
+    font-family: 'Grand Hotel', cursive; }
+  main .group2 button {
+    font-size: 2.5rem;
+    line-height: 2rem;
+    font-weight: bold;
+    padding: 1rem 5rem; }
+  main .group2 button:hover {
+    color: white; }
+main .group3 {
+  background: url(../image/home-image/group3-bg.png) no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+  main .group3 .container {
+    padding: 10rem 0; }
+    main .group3 .container .title-group3 p {
+      font-size: calc(3.5rem + 3.5vw);
+      font-family: 'Grand Hotel', cursive; }
+    main .group3 .container .title-group3 h1 {
+      margin: 0 25rem; }
+    main .group3 .container .row {
+      padding: 10rem 0; }
+      main .group3 .container .row p {
+        font-size: calc(2rem + 2.5vw);
+        margin-bottom: 0; }
+      main .group3 .container .row span {
+        font-size: calc(1.5rem + 1.3vw); }
+main .group4 {
+  background: url(../image/home-image/group4-bg.png) no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 15rem 0; }
+  main .group4 p {
+    font-size: calc(3.5rem + 3.5vw);
+    font-family: 'Grand Hotel', cursive; }
+  main .group4 button {
+    font-size: 2.5rem;
+    line-height: 2rem;
+    font-weight: bold;
+    padding: 1rem 5rem; }
+  main .group4 button:hover {
+    color: white; }
+main .group5 {
+  background: url(../image/home-image/group5-bg.png) no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 25rem 0; }
+  main .group5 span {
+    font-size: calc(1.5rem + 1.5vw); }
+  main .group5 p {
+    font-size: calc(2rem + 3vw);
+    font-family: 'Grand Hotel', cursive; }
+main .group6 {
+  background: url(../image/home-image/group6-bg.png) no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 25rem 0; }
+  main .group6 .title-group6 p {
+    font-size: calc(3.5rem + 3.5vw);
+    font-family: 'Grand Hotel', cursive; }
+  main .group6 .title-group6 h1 {
+    width: 50vw;
+    margin: 0 25rem; }
+  main .group6 form {
+    padding: 5rem 0; }
+    main .group6 form .box-shadow {
+      max-width: 75vw;
+      box-shadow: 5px 5px 5px 5px #AAA; }
+      main .group6 form .box-shadow input {
+        font-size: calc(1.3rem + 1.5vw); }
+      main .group6 form .box-shadow .email {
+        text-indent: 5rem;
+        width: 45vw; }
+      main .group6 form .box-shadow .group6-btn {
+        line-height: 2rem;
+        font-weight: bold;
+        padding: 1.9rem 5rem; }
+      main .group6 form .box-shadow .group6-btn:hover {
+        color: white !important; }
