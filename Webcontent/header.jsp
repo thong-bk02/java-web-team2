@@ -20,6 +20,7 @@
                 <a href="Promo.jsp" class="px-lg-5 px-sm-3 px-0 text-decoration-none">Promo</a>
                 <a href="about.jsp" class="px-lg-5 px-sm-3 px-0 text-decoration-none">About</a>
                 <a href="contact.jsp" class="px-lg-5 px-sm-3 px-0 text-decoration-none">Contact</a>
+                <a href="#" class="px-xl-5 px-lg-4 px-sm-3 px-0 text-decoration-none"><i class="fas fa-user"></i></a>
             </nav>
             <div class="icons ps-xl-5 ps-0">
                 <div id="menu-btn" class="fas fa-bars d-md-none d-inline-block"></div>
