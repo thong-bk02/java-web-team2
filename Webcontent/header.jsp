@@ -11,7 +11,7 @@
     <div class="header-group">
     <header class="header w-100">
         <div class="container d-flex align-items-center">
-            <div class="logo py-4"><a href="index.html"><img src="image/product-image/logo.png" class="img-fluid"></a>
+            <div class="logo py-4"><a href="index.html"><img src="image/home-image/logo.png" class="img-fluid"></a>
             </div>
             <nav class="navbar">
                 <div id="nav-close" class="fas fa-times d-md-none d-block"></div>
