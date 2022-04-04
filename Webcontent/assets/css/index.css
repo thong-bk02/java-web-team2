@@ -1,0 +1,77 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;1,100;1,300&display=swap");
+.text-grand-hotel {
+  font-family: 'Grand Hotel', cursive; }
+  
+.introduce {
+	background: url(../image/home-image/bg-header.png) no-repeat;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+    height:50rem; }
+.introduce span {
+    font-size: calc(4rem + 4vw); }
+    
+button:hover {
+    color: white !important;}
+
+.best-seller .container .title p {
+    font-size: calc(2.7rem + 3vw); }
+.best-seller .container .content p {
+    font-size: calc(2rem + 2vw); }
+    
+.oriental-taste {
+  	background: url(../image/home-image/group2-bg.png) no-repeat;
+  	background-position: center;
+  	background-size: cover;}
+.oriental-taste p {
+    font-size: calc(3rem + 2vw);}
+    
+.statistics {
+  	background: url(../image/home-image/group3-bg.png) no-repeat;
+  	background-position: center;
+  	background-size: cover; }
+.statistics .container .title p {
+    font-size: calc(3rem + 2vw);}
+.statistics .container .row .border{
+  	width: calc(10rem + 3.5vw);
+	height: calc(10rem + 3.5vw);}
+        
+.barbecue{
+  	background: url(../image/home-image/group4-bg.png) no-repeat;
+  	background-position: center;
+  	background-size: cover;}
+.barbecue p {
+    font-size: calc(3.5rem + 3.5vw); }
+.barbecue button:hover {
+    color: white; }
+    
+.description {
+  	background: url(../image/home-image/group5-bg.png) no-repeat;
+  	background-position: center;
+  	background-size: cover;
+  	height: calc(20rem + 30vw);}
+.description span {
+    font-size: calc(1.5rem + 1.5vw); }
+.description p {
+    font-size: calc(2rem + 3vw);}
+       
+.subcribe {
+  	background: url(../image/home-image/group6-bg.png) no-repeat;
+  	background-position: center;
+  	background-size: cover;
+ 	height: calc(20rem + 30vw);}
+.subcribe p {
+    font-size: calc(3.5rem + 3.5vw); }
+.subcribe form .box-shadow {
+    box-shadow: 5px 5px 5px 5px #AAA; }
+.subcribe form .btn-subcribe:hover{
+	color: white !important;
+}
+
+@media (max-width: 767px) {
+.oriental-taste .content{
+    text-align: center; }
+.barbecue .content{
+    text-align: center; } 
+}
