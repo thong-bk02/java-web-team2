@@ -1,0 +1,6 @@
+@charset "UTF-8";
+  footer .icon {
+    height: 3rem;
+    width: 3rem;}
+  footer ul li a:hover {
+    margin-left: 10px; }
