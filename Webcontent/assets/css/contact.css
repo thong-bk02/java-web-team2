@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.title {
+  background: url(../image/contact-image/bg-title.png) no-repeat;
+  height: 50rem;
+  background-position: bottom;
+  background-size: cover; }
+  .title p {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 9rem; }
+
+.container iframe {
+  height: 20rem; }
+.container form textarea {
+  height: 10rem;}
+button:hover{
+	background-color: white !important;
+	color : yellow !important;
+}
+
