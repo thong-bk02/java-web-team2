@@ -1,0 +1,51 @@
+@charset "UTF-8";
+html a {
+   	text-decoration: none; }
+.text-grand-hotel {
+  	font-family: 'Grand Hotel', cursive; }
+
+.wellcome {
+  	background: url(../image/promo-image/group1-bg.jpg) no-repeat;
+  	background-position: center;
+  	background-size: cover; }
+.wellcome .container {
+    padding: 18rem 0; }
+.wellcome p {
+    font-size: calc(2rem + 3vw); }
+
+.offer .container .title .text-warning {
+    font-size: calc(2.5rem + 2.5vw);}
+.offer .image1 {
+    background: url(../image/promo-image/group2-img1.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: calc(20rem + 15vw); }
+.offer .image2 {
+    background: url(../image/promo-image/group2-img2.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: calc(20rem + 15vw); }
+.offer .image3 {
+    background: url(../image/promo-image/group2-img3.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: calc(20rem + 15vw); }
+.offer .container .row .d-flex p {
+    font-size: calc(1.5rem + 2vw); }
+    
+.discover {
+  	background: url(../image/promo-image/group3-bg.jpg) no-repeat;
+  	background-position: center;
+  	background-size: cover;
+  	background-attachment: fixed;
+  	padding: 10rem 0; }
+.discover .container .menu .title p {
+    font-size: calc(2.5rem + 2.5vw); }
+    
+
+.promotion p {
+    font-size: calc(2.5rem + 2.5vw); }
+
+@media (max-width: 576px) {
+.discover .menu {
+    width: 100% !important; } }
