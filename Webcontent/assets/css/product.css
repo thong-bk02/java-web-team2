@@ -1,0 +1,66 @@
+@charset "UTF-8";
+html a {
+   	text-decoration: none; } 
+.text-grand-hotel {
+  	font-family: 'Grand Hotel', cursive; }
+
+.about {
+  	background: url(../image/product-image/about-bg.png) no-repeat;
+  	background-position: center;
+  	background-size: cover; }
+ .about .container {
+    padding: 10rem 0 20rem 0; } 
+.about .text-warning {
+    font-size: 6rem;}
+.about .btn:hover {
+      color: gold !important;
+      background-color: white; } 
+
+.popular .container .heading span {
+  	font-size: 6rem; }
+.popular .border-box {
+    border-radius: 1.5rem;
+    background-color: #aaaaaa; }
+.popular  .btn:hover{
+	color: yellow !important;
+	background-color: white !important; }
+
+.banner .row .banner-col1 .content {
+  	background: url(../image/product-image/banner-1.png) no-repeat;
+  	background-position: center;
+  	background-size: cover;
+  	border-radius: 1rem; }
+.banner .row .banner-col2 .content {
+  	background: url(../image/product-image/banner-2.png) no-repeat;
+	background-position: center;
+	background-size: cover;
+  	border-radius: 1rem;
+  	border: 2px solid black; }
+.banner .row .banner-col3 .content {
+  	background: url(../image/product-image/banner-3.png) no-repeat;
+  	background-position: center;
+  	background-size: cover;
+  	border-radius: 1rem; }
+.banner .content {
+  	height: 30rem; }
+  .banner span {
+    font-size: 4rem; }
+.banner .btn:hover {
+    color: gold !important;
+    background-color: white !important; }
+.banner .content:hover {
+  	transform: scale(1.05); }
+
+.menu .heading span {
+  	font-size: 8rem;}
+.menu .border:hover{
+	cursor: pointer;
+	background-color:black !important;
+	color : white;
+}
+
+.order .heading span {
+  font-size: 8rem; }
+.order .row .text-center {
+  border-radius: 1rem; }
+
