@@ -1,0 +1,59 @@
+@charset "UTF-8";
+.text-grand-hotel {
+  font-family: 'Grand Hotel', cursive; }
+.content, .image{
+	height: 100vh;}
+
+.best-food .content {
+  background: url(../image/about-image/bg-content.png) no-repeat;
+  background-position: bottom;
+  background-size: cover;}
+.text-warning {
+  font-size: calc(4rem + 4vw); }
+.best-food .image {
+  background: url(../image/about-image/group1-img-right.jpg) no-repeat;
+  background-position: bottom;
+  background-size: cover;}
+.discount .image {
+  background: url(../image/about-image/group2-img-left.png) no-repeat; 
+  background-position: bottom;
+  background-size: cover;}
+.discount .content {
+  background: url(../image/about-image/bg-content.png) no-repeat;
+  background-position: bottom;
+  background-size: cover;}
+  
+.review .content {
+  background: url(../image/about-image/bg-content.png) no-repeat;
+  background-position: bottom;
+  background-size: cover; }
+.review .image {
+  background: url(../image/about-image/group3-img-fight.jpg) no-repeat;
+  background-size: cover;
+  background-position: bottom;}
+
+.new .container .row img {
+  height: 25rem;
+  width: 35rem;
+  border-radius: 1rem; }
+.new .container .row .categories {
+  background: url(../image/about-image/group4-categoty.jpg) no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  height: 30rem; }
+.new .container .row .customer {
+  background: url(../image/about-image/group4-customer.jpg) no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  height: 30rem; }
+
+@media (max-width: 991px) {
+  .content, .image {
+    height: 80vh; } }
+@media (max-width: 767px) {
+  .content, .image {
+    height: 60vh; } }
+@media (max-width: 450px) {
+  .content, .image {
+    height: 40vh; }}
+
