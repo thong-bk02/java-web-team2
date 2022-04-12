@@ -28,7 +28,7 @@
      <div class="col-lg-6 mb-5 mb-lg-0">
        <div class="card cascading-right" style="background: hsla(0, 0%, 100%, 0.55);backdrop-filter: blur(30px);">
          <div class="card-body p-5 shadow-5 text-center">
-           <h1 class="fw-bold mb-5">Log in</h1>
+           <h1 class="fw-bold my-5">Log in</h1>
            <form>
              <div class="form-outline mb-2">
                <input type="email" id="form3Example3" class="form-control" name="email"/>
@@ -76,7 +76,7 @@
 
      <div class="col-lg-6 mb-5 mb-lg-0 d-flex justify-content-center align-items-center">
        <div class="">
-       	<img src="${pageContext.request.contextPath}/assets/image/login/login.jfif" alt="" class="" />
+       	<img src="${pageContext.request.contextPath}/assets/image/signup/signup.jfif" alt="" class="img-fluid image" />
        </div>
      </div>
    </div>

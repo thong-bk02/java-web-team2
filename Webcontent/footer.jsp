@@ -12,9 +12,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-5 col-12 py-4 right-footer">
-                <h1 class="fw-bold">Title Here</h1>
-                <h4 class="me-5">Lorem ipsum dolor sit amet, consecte- tur adipiscing elit. Aliquam at dignissim nunc, id maximus ex.
-                    Etiam nec dignissim elit, at dignissim enim. </h4>
+                <h1 class="fw-bold">OSTERIA</h1>
+                <h4 class="me-5">Osteria restaurant are committed to excellence in customer service as well as sourcing the freshest produce available. With a relaxed and vacation-like atmosphere. </h4>
                 <div class="row py-3">
                     <div class="col-3 m-2 icon rounded-circle border border-2 border-white d-flex align-items-center justify-content-center bg-light">
                         <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram text-dark fs-2"></i></a>

@@ -3,8 +3,8 @@
   font-family: 'Grand Hotel', cursive; }
  .header{
  background-color: black !important;}
- img{
- height: 100vh}
+ .image{
+ height: 45rem !important;}
  .card{
  background: hsla(0, 0%, 100%, 0.55);
  backdrop-filter: blur(30px);}
