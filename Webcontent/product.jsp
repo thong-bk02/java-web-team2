@@ -34,8 +34,7 @@
                     <div class="content-title">
                         <p class="text-warning text-grand-hotel">Why choose us?</p>
                         <p class="title text-light fs-1">What's make our food delicious!</p>
-                        <h3 class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos ut explicabo,
-                            numquam iusto est a ipsum assumenda tempore esse corporis?</h3>
+                        <h3 class="text-light">McDonald's is always praised for having the most diverse menu in the world. Besides "legendary" dishes such as hamburgers, what other dishes are being interested in recent times.</h3>
                         <p class="my-3"><a href="#" class="btn btn-warning text-light py-2 px-5 fs-1">Read More</a></p>
                     </div>
                 </div>
@@ -57,16 +56,16 @@
                         </div>
                         <div class="content d-flex align-items-center justify-content-center mx-2">
                             <div>
-                                <h3>delicious food</h3>
+                                <h3>Hacon hamburger</h3>
                                 <div class="stars">
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star-half-alt text-warning"></i>
-                                    <span class="text-secondary"> (50) </span>
+                                    <span class="text-secondary"> (1000)  </span>
                                 </div>
-                                <div class="text-dark fs-3">$40.00 <span class="text-secondary text-decoration-line-through">$50.00</span></div>
+                                <div class="text-dark fs-3">$29.99 <span class="text-secondary text-decoration-line-through">$35.00</span></div>
                                 <div>
                                     <a href="#" class="btn py-2 px-3 bg-warning text-light fs-4">add to cart</a><a href="#"class="fas fa-heart heart float-end text-warning fs-1 my-2 ms-2"></a>
                                 </div>
@@ -81,16 +80,16 @@
                         </div>
                         <div class="content d-flex align-items-center justify-content-center">
                             <div>
-                                <h3>delicious food</h3>
+                                <h3>Mushroom pizza</h3>
                                 <div class="stars">
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star-half-alt text-warning"></i>
-                                    <span class="text-secondary"> (50) </span>
+                                    <span class="text-secondary"> (150) </span>
                                 </div>
-                                <div class="text-dark fs-3">$40.00 <span class="text-secondary text-decoration-line-through">$50.00</span></div>
+                                <div class="text-dark fs-3">$37.00 <span class="text-secondary text-decoration-line-through">$40.00</span></div>
                                 <div>
                                     <a href="#" class="btn py-2 px-3 bg-warning text-light fs-4">add to cart</a><a href="#"class="fas fa-heart float-end text-warning fs-1 my-2 ms-2"></a>
                                 </div>
@@ -105,16 +104,16 @@
                         </div>
                         <div class="content d-flex align-items-center justify-content-center">
                             <div>
-                                <h3>delicious food</h3>
+                                <h3>Balck humberger</h3>
                                 <div class="stars">
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star-half-alt text-warning"></i>
-                                    <span class="text-secondary"> (50) </span>
+                                    <span class="text-secondary"> (399) </span>
                                 </div>
-                                <div class="text-dark fs-3">$40.00 <span class="text-secondary text-decoration-line-through">$50.00</span></div>
+                                <div class="text-dark fs-3">$30.00 <span class="text-secondary text-decoration-line-through">$45.00</span></div>
                                 <div>
                                     <a href="#" class="btn py-2 px-3 bg-warning text-light fs-4">add to cart</a><a href="#"class="fas fa-heart float-end text-warning fs-1 my-2 ms-2"></a>
                                 </div>
@@ -129,16 +128,16 @@
                         </div>
                         <div class="content d-flex align-items-center justify-content-center">
                             <div>
-                                <h3>delicious food</h3>
+                                <h3>Vegetarian pizza</h3>
                                 <div class="stars">
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star-half-alt text-warning"></i>
-                                    <span class="text-secondary"> (50) </span>
+                                    <span class="text-secondary"> (100) </span>
                                 </div>
-                                <div class="text-dark fs-3">$40.00 <span class="text-secondary text-decoration-line-through">$50.00</span></div>
+                                <div class="text-dark fs-3">$23.00 <span class="text-secondary text-decoration-line-through">$30.00</span></div>
                                 <div>
                                     <a href="#" class="btn py-2 px-3 bg-warning text-light fs-4">add to cart</a><a href="#"class="fas fa-heart float-end text-warning fs-1 my-2 ms-2"></a>
                                 </div>
@@ -153,16 +152,16 @@
                         </div>
                         <div class="content d-flex align-items-center justify-content-center">
                             <div>
-                                <h3>delicious food</h3>
+                                <h3>chili pizza</h3>
                                 <div class="stars">
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star-half-alt text-warning"></i>
-                                    <span class="text-secondary"> (50) </span>
+                                    <span class="text-secondary"> (200) </span>
                                 </div>
-                                <div class="text-dark fs-3">$40.00 <span class="text-secondary text-decoration-line-through">$50.00</span></div>
+                                <div class="text-dark fs-3">$33.00 <span class="text-secondary text-decoration-line-through">$45.00</span></div>
                                 <div>
                                     <a href="#" class="btn py-2 px-3 bg-warning text-light fs-4">add to cart</a><a href="#"class="fas fa-heart float-end text-warning fs-1 my-2 ms-2"></a>
                                 </div>
@@ -177,16 +176,16 @@
                         </div>
                         <div class="content d-flex align-items-center justify-content-center">
                             <div>
-                                <h3>delicious food</h3>
+                                <h3>Double hamburger</h3>
                                 <div class="stars">
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star-half-alt text-warning"></i>
-                                    <span class="text-secondary"> (50) </span>
+                                    <span class="text-secondary"> (999) </span>
                                 </div>
-                                <div class="text-dark fs-3">$40.00 <span class="text-secondary text-decoration-line-through">$50.00</span></div>
+                                <div class="text-dark fs-3">$59.00 <span class="text-secondary text-decoration-line-through">$65.00</span></div>
                                 <div>
                                     <a href="#" class="btn py-2 px-3 bg-warning text-light fs-4">add to cart</a><a href="#"class="fas fa-heart float-end text-warning fs-1 my-2 ms-2"></a>
                                 </div>
@@ -201,16 +200,16 @@
                         </div>
                         <div class="content d-flex align-items-center justify-content-center">
                             <div>
-                                <h3>delicious food</h3>
+                                <h3>seafood pizza</h3>
                                 <div class="stars">
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star-half-alt text-warning"></i>
-                                    <span class="text-secondary"> (50) </span>
+                                    <span class="text-secondary"> (435) </span>
                                 </div>
-                                <div class="text-dark fs-3">$40.00 <span class="text-secondary text-decoration-line-through">$50.00</span></div>
+                                <div class="text-dark fs-3">$41.00 <span class="text-secondary text-decoration-line-through">$45.00</span></div>
                                 <div>
                                     <a href="#" class="btn py-2 px-3 bg-warning text-light fs-4">add to cart</a><a href="#"class="fas fa-heart float-end text-warning fs-1 my-2 ms-2"></a>
                                 </div>
@@ -225,16 +224,16 @@
                         </div>
                         <div class="content d-flex align-items-center justify-content-center">
                             <div>
-                                <h3>delicious food</h3>
+                                <h3>big humberger</h3>
                                 <div class="stars">
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star text-warning"></i>
                                     <i class="fas fa-star-half-alt text-warning"></i>
-                                    <span class="text-secondary"> (50) </span>
+                                    <span class="text-secondary"> (890) </span>
                                 </div>
-                                <div class="text-dark fs-3">$40.00 <span class="text-secondary text-decoration-line-through">$50.00</span></div>
+                                <div class="text-dark fs-3">$55.00 <span class="text-secondary text-decoration-line-through">$65.00</span></div>
                                 <div>
                                     <a href="#" class="btn py-2 px-3 bg-warning text-light fs-4">add to cart</a><a href="#"class="fas fa-heart float-end text-warning fs-1 my-2 ms-2"></a>
                                 </div>
@@ -295,8 +294,8 @@
                         </div>
                         <div class="col-8 d-flex align-items-center">
                             <div>
-                                <h4>special food</h4>
-                                <div class="text-success fs-3">$40.00</div>
+                                <h4>Hamburger</h4>
+                                <div class="text-success fs-3">$25.00</div>
                             </div>
                         </div>
                     </div>
@@ -308,8 +307,8 @@
                         </div>
                         <div class="col-8 d-flex align-items-center">
                             <div>
-                               	<h4>special food</h4>
-                                <div class="text-success fs-3">$40.00</div>
+                               	<h4>seafood piza</h4>
+                                <div class="text-success fs-3">$41.00</div>
                             </div>
                         </div>
                     </div>
@@ -321,8 +320,8 @@
                         </div>
                         <div class="col-8 d-flex align-items-center">
                             <div>
-                                <h4>special food</h4>
-                                <div class="text-success fs-3">$40.00</div>
+                                <h4>triangle cake</h4>
+                                <div class="text-success fs-3">$15.00</div>
                             </div>
                         </div>
                     </div>
@@ -334,8 +333,8 @@
                         </div>
                         <div class="col-8 d-flex align-items-center">
                             <div>
-                                <h4>special food</h4>
-                                <div class="text-success fs-3">$40.00</div>
+                                <h4>bacon pie</h4>
+                                <div class="text-success fs-3">$15.00</div>
                             </div>
                         </div>
                     </div>
@@ -347,8 +346,8 @@
                         </div>
                         <div class="col-8 d-flex align-items-center">
                             <div>
-                                <h4>special food</h4>
-                                <div class="text-success fs-3">$40.00</div>
+                                <h4>French fries</h4>
+                                <div class="text-success fs-3">$12.00</div>
                             </div>
                         </div>
                     </div>
@@ -360,8 +359,8 @@
                         </div>
                         <div class="col-8 d-flex align-items-center">
                             <div>
-                                <h4>special food</h4>
-                                <div class="text-success fs-3">$40.00</div>
+                                <h4>Real pizza</h4>
+                                <div class="text-success fs-3">$35.00</div>
                             </div>
                         </div>
                     </div>

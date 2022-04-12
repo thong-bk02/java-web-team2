@@ -31,7 +31,7 @@
                 <div class="offset-sm-5 offset-4 col-sm-7 col-8 d-flex align-items-center h-100">
                     <div class="text-uppercase">
                         <span class="text-warning text-grand-hotel">osteria</span><br>
-                        <h1 class="text-light mb-md-5 mb-3">Choose your reservation with us below and enjoy our family style service. </h1>
+                        <h1 class="text-light mb-md-5 mb-3">Choose your reservation with us below and enjoy our family style service.  </h1>
                         <button type="button" class="btn btn-outline-warning"><span class="fs-1 px-3 text-uppercase">order now</span></button>
                     </div>
                 </div>
@@ -51,8 +51,8 @@
                         <img src="${pageContext.request.contextPath}/assets/image/home-image/group1-image1.png" class="img-fluid rounded-circle h-75 vw-50">
                     </div>
                     <div class="text-center my-4">
-                        <p class="text-grand-hotel fw-bold">Title Here</p>
-                        <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+                        <p class="text-grand-hotel fw-bold">Fried Chicken</p>
+                        <h2>An intensely flavored buttermilk brine tenderizes the chicken.</h2>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12 ">
@@ -60,8 +60,8 @@
                         <img src="${pageContext.request.contextPath}/assets/image/home-image/group1-image2.png" class="img-fluid rounded-circle h-75 vw-50">
                     </div>
                     <div class="text-center my-4">
-                        <p class="text-grand-hotel fw-bold">Title Here</p>
-                        <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+                        <p class="text-grand-hotel fw-bold">Meatball</p>
+                        <h2>These meatballs always come out amazingly tender, deliciously.</h2>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -69,8 +69,8 @@
                         <img src="${pageContext.request.contextPath}/assets/image/home-image/group1-image3.png" class="img-fluid rounded-circle h-75 vw-50">
                     </div>
                     <div class="text-center my-4">
-                         <p class="text-grand-hotel fw-bold">Title Here</p>
-                         <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+                         <p class="text-grand-hotel fw-bold">Fried Noodles</p>
+                         <h2>Fried noodles are a must-try recipe and the perfect weeknight.</h2>
                     </div>
                 </div>
             </div>
@@ -86,8 +86,7 @@
                 <div class="col-lg-6 col-12 h-100 d-flex align-items-center">
                     <div class="py-5 px-3 content">
                         <p class="text-warning fw-bold text-grand-hotel">Oriental Taste</p>
-                        <h1 class="text-light py-md-3 py-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Vivamus lacinia odio vitae ves- tibulum vestibulum. </h1>
+                        <h1 class="text-light py-md-3 py-3">Osteria restaurant furnish a home between Oriental taste and contemporary comfort. </h1>
                         <div class="group2-btn mt-3">
                             <button type="button" class="btn btn-outline-warning"><span class="fs-1 px-3 text-uppercase">order now</span></button>
                         </div>
@@ -101,8 +100,7 @@
         <div class="container py-5">
             <div class="title text-center">
                 <p class="text-warning fw-bold text-grand-hotel">Statistics</p>
-                <h1 class="text-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio
-                    vitae vestibulum vestibulum. </h1>
+                <h1 class="text-light">The restaurant industry is no slouch when it comes to variety. They range from selling a dollar meal for the masses. </h1>
             </div>
             <div class="row w-100 py-5">
                 <div class="col-md-3 col-sm-6 col-6 py-lg-5 py-3 d-flex align-items-center justify-content-center">
@@ -147,8 +145,7 @@
                 <div class="col-lg-6 col-12 h-100 d-flex align-items-center">
                     <div class="py-5 px-3 content">
                         <p class="text-warning fw-bold text-grand-hotel">Chicken Grill</p>
-                        <h1 class="text-light py-md-3 py-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Vivamus lacinia odio vitae ves- tibulum vestibulum. </h1>
+                        <h1 class="text-light py-md-3 py-3">My technique and marinade ensure tender, juicy, and flavorful grilled chicken every time. </h1>
                         <div class="group2-btn mt-3">
                             <button type="button" class="btn btn-outline-warning"><span class="fs-1 px-3 text-uppercase">order now</span></button>
                         </div>
@@ -164,8 +161,7 @@
     <div class="description">
         <div class="container h-100 d-flex align-items-center justify-content-center">
             <div class="text-center">
-                <span class="my-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio
-                    vitae vestibulum vestibulum. </span>
+                <span class="my-5">Osteria restaurant offers a home between oriental flavors and modern comforts. Osteria restaurant brings a sense of familiarity. </span>
                 <p class="mt-md-5 mt-0 text-grand-hotel">Lenora Fields</p>
             </div>
         </div>
@@ -175,8 +171,7 @@
         <div class="container h-100 d-flex align-items-center justify-content-center">
             <div class="content text-center mx-3">
                 <p class="text-grand-hotel">Subscribe</p>
-                <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio
-                    vitae vestibulum vestibulum. </h2>
+                <h2>Osteria restaurant are committed to excellence in customer service as well as sourcing the freshest produce available. </h2>
                 <form action="" class="d-flex align-items-center justify-content-center py-5">
                 	<div class="box-shadow rounded">
                     	<input type="email" name="" placeholder="Your Email" id="" class="email rounded-start fs-3 px-md-3 px-lg-5">
